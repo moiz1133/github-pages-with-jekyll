@@ -1,10 +1,11 @@
-title: Your awesome title
-author: GitHub User
+theme: minima
+title: Abdul Moiz Asif Life
+author: Moiz
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Life is full of moments of joy, pleasure, success and comfort punctuated by misery, defeat, failures and problems. 
+  There is no human being on Earth, strong, powerful, wise or rich, who has not experienced, struggle, suffering or failure. 
+  You have to work hard to reach to the highest position.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
