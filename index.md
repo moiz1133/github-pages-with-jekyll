@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Abdul Moiz Asif blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad I am learning new things ...
